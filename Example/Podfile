@@ -1,8 +1,9 @@
 use_frameworks!
 
-target 'ZCMessageModule_Example' do
-  pod 'ZCMessageModule', :path => '../'
 
+target 'ZCMessageModule_Example' do
+#  pod 'ZCMessageModule', :path => '../'
+ pod 'CTMediator'
   target 'ZCMessageModule_Tests' do
     inherit! :search_paths
 
