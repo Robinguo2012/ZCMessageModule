@@ -1,26 +1,22 @@
 PODS:
+  - CTMediator (12)
   - FBSnapshotTestCase (2.1.4):
     - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
   - Kiwi (2.4.0)
-  - ZCMessageModule (0.1.0)
 
 DEPENDENCIES:
+  - CTMediator
   - FBSnapshotTestCase
   - Kiwi
-  - ZCMessageModule (from `../`)
-
-EXTERNAL SOURCES:
-  ZCMessageModule:
-    :path: ../
 
 SPEC CHECKSUMS:
+  CTMediator: 83043d198b7ea73214d53375adfdd7f60edd4c1a
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
-  ZCMessageModule: 24c8432c8ecc7230799994e727461185490e24ad
 
-PODFILE CHECKSUM: 3ddd0b1811abdbc38f4d926e0adfbc513f1e82b4
+PODFILE CHECKSUM: f04bd8ce645a2f40d57d7613c0fc259a4a70c356
 
 COCOAPODS: 1.3.1
