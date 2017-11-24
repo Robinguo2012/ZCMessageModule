@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-  猩猩聊天模块.
+  测试猩猩聊天模块
                        DESC
 
   s.homepage         = 'https://gitee.com/b_zone/ZCMessageModule'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'robin.guov@foxmail.com' => 'robin_guov@163.com' }
-  s.source           = { :git => 'https://gitee.com/b_zone/ZCMessageModule.git', :tag => "1.0.0" }
+  s.author           = { 'robin_guov@163.com' => 'robin_guov@163.com' }
+  s.source           = { :git => 'https://github.com/Robinguo2012/ZCMessageModule.git', :branch => master }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
