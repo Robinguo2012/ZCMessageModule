@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ZCMessageModule
 
 [![CI Status](http://img.shields.io/travis/robin.guov@foxmail.com/ZCMessageModule.svg?style=flat)](https://travis-ci.org/robin.guov@foxmail.com/ZCMessageModule)
@@ -28,7 +28,7 @@ robin.guov@foxmail.com, robin_guov@163.com
 ## License
 
 ZCMessageModule is available under the MIT license. See the LICENSE file for more info.
-=======
+
 # ZCMessageModule
 猩猩消息/聊天模块
->>>>>>> cfbd0913ac2014ca38cc25d0ab18fb8ec9a7c718
+
